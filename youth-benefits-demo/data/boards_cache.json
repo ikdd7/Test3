@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T22:24:30.180Z",
+  "fetched_at": "2026-09-06T23:37:43.967Z",
   "candidates": [
     {
       "region": "인천광역시 연수구",
@@ -108,8 +108,8 @@
     },
     {
       "region": "인천광역시 연수구",
-      "title": "인천식품산업육성지원센터 「식품 뉴스(FOOD NEWS) 제26-7호」 발행 안내",
-      "url": "https://www.yeonsu.go.kr/main/part/food/food_notice.asp?page=v&amp;gotopage=1&amp;seq=29&amp;keyfield=&amp;keyword=&amp;s_date=&amp;e_date=&amp;eminwon=&amp;dept_idx=&amp;head_idx=&amp;se_dept_idx=&amp;category=&amp;head_idx_cateYN=&amp;listCnt=",
+      "title": "인천식품산업육성지원센터 「식품 뉴스(FOOD NEWS) 제26-9호」 발행 안내",
+      "url": "https://www.yeonsu.go.kr/main/part/food/food_notice.asp?page=v&amp;gotopage=1&amp;seq=32&amp;keyfield=&amp;keyword=&amp;s_date=&amp;e_date=&amp;eminwon=&amp;dept_idx=&amp;head_idx=&amp;se_dept_idx=&amp;category=&amp;head_idx_cateYN=&amp;listCnt=",
       "onclick": "",
       "board": "https://www.yeonsu.go.kr/main/part/food/food_notice.asp"
     },
@@ -166,13 +166,6 @@
       "region": "인천광역시 연수구",
       "title": "인천 제조업체 생산 우수식품 홍보전시관 모집공고 안내",
       "url": "https://www.yeonsu.go.kr/main/part/food/food_notice.asp?page=v&amp;gotopage=1&amp;seq=17&amp;keyfield=&amp;keyword=&amp;s_date=&amp;e_date=&amp;eminwon=&amp;dept_idx=&amp;head_idx=&amp;se_dept_idx=&amp;category=&amp;head_idx_cateYN=&amp;listCnt=",
-      "onclick": "",
-      "board": "https://www.yeonsu.go.kr/main/part/food/food_notice.asp"
-    },
-    {
-      "region": "인천광역시 연수구",
-      "title": "중국 하이난 한국국가관 입점 참가업체 모집 안내",
-      "url": "https://www.yeonsu.go.kr/main/part/food/food_notice.asp?page=v&amp;gotopage=1&amp;seq=16&amp;keyfield=&amp;keyword=&amp;s_date=&amp;e_date=&amp;eminwon=&amp;dept_idx=&amp;head_idx=&amp;se_dept_idx=&amp;category=&amp;head_idx_cateYN=&amp;listCnt=",
       "onclick": "",
       "board": "https://www.yeonsu.go.kr/main/part/food/food_notice.asp"
     },
@@ -424,14 +417,14 @@
     {
       "region": "인천광역시 강화군",
       "title": "강화군 소상공인 경영안정 지원금 30만원 지급",
-      "url": "https://www.ganghwa.go.kr/open_content/main/bbs/bbsMsgDetail.do;jsessionid=3FB9153885EA9362DBFBA67AE60E1691?msg_seq=12442&amp;bcd=notice",
+      "url": "https://www.ganghwa.go.kr/open_content/main/bbs/bbsMsgDetail.do;jsessionid=58DCE6748F0BAE2E87143ED3D6A270CA?msg_seq=12442&amp;bcd=notice",
       "onclick": "",
       "board": "https://www.ganghwa.go.kr/open_content/main/ganghwa/news/notice.jsp"
     },
     {
       "region": "인천광역시 강화군",
       "title": "2026년 강화군 동네안내자 매칭 대상자(우리 동네 새친구) 모집",
-      "url": "https://www.ganghwa.go.kr/open_content/main/bbs/bbsMsgDetail.do;jsessionid=3FB9153885EA9362DBFBA67AE60E1691?msg_seq=12433&amp;bcd=notice",
+      "url": "https://www.ganghwa.go.kr/open_content/main/bbs/bbsMsgDetail.do;jsessionid=58DCE6748F0BAE2E87143ED3D6A270CA?msg_seq=12433&amp;bcd=notice",
       "onclick": "",
       "board": "https://www.ganghwa.go.kr/open_content/main/ganghwa/news/notice.jsp"
     },
@@ -584,15 +577,8 @@
     },
     {
       "region": "인천광역시 동구",
-      "title": "[교육안내] 지역주민을 위한 병원동행 및 돌봄 관련 자격증 교육 안내 NEW",
-      "url": "https://www.icdonggu.go.kr/main/bbs/bbsMsgDetail.do?msg_seq=16425&amp;bcd=board",
-      "onclick": "",
-      "board": "https://www.icdonggu.go.kr/main/community/board.jsp"
-    },
-    {
-      "region": "인천광역시 동구",
-      "title": "[마감임박] 한국어교원 2급 자격증 취득 개강반 모집",
-      "url": "https://www.icdonggu.go.kr/main/bbs/bbsMsgDetail.do?msg_seq=16419&amp;bcd=board",
+      "title": "인도네시아 비자 신청 e-VOA 작성부터 발급까지 총정리 NEW",
+      "url": "https://www.icdonggu.go.kr/main/bbs/bbsMsgDetail.do?msg_seq=16426&amp;bcd=board",
       "onclick": "",
       "board": "https://www.icdonggu.go.kr/main/community/board.jsp"
     },
@@ -614,6 +600,13 @@
       "region": "인천광역시 동구",
       "title": "2026 추석 민생지원금 신청 대상 확인, 지역별로 받을 수 있는 보조금 찾아보기",
       "url": "https://www.icdonggu.go.kr/main/bbs/bbsMsgDetail.do?msg_seq=16402&amp;bcd=board",
+      "onclick": "",
+      "board": "https://www.icdonggu.go.kr/main/community/board.jsp"
+    },
+    {
+      "region": "인천광역시 동구",
+      "title": "인천광역시 [신중년아지트] 기획특강(3차) 교육생 모집",
+      "url": "https://www.icdonggu.go.kr/main/bbs/bbsMsgDetail.do?msg_seq=16394&amp;bcd=board",
       "onclick": "",
       "board": "https://www.icdonggu.go.kr/main/community/board.jsp"
     },
@@ -997,21 +990,21 @@
     },
     {
       "region": "인천광역시 남동구",
-      "title": "AI 안부확인 돌봄서비스 신청 안내 new",
+      "title": "AI 안부확인 돌봄서비스 신청 안내",
       "url": "https://www.namdong.go.kr/main/bbs/bbsMsgDetail.do?msg_seq=15956&amp;bcd=notice",
       "onclick": "",
       "board": "https://www.namdong.go.kr/main/news/notice.jsp"
     },
     {
       "region": "인천광역시 남동구",
-      "title": "장애인 의료·요양 통합돌봄 사업안내 new",
+      "title": "장애인 의료·요양 통합돌봄 사업안내",
       "url": "https://www.namdong.go.kr/main/bbs/bbsMsgDetail.do?msg_seq=15955&amp;bcd=notice",
       "onclick": "",
       "board": "https://www.namdong.go.kr/main/news/notice.jsp"
     },
     {
       "region": "인천광역시 남동구",
-      "title": "「2026년 여성복지관 여성창업지원센터」 입주업체 모집 재공고 new",
+      "title": "「2026년 여성복지관 여성창업지원센터」 입주업체 모집 재공고",
       "url": "https://www.namdong.go.kr/main/bbs/bbsMsgDetail.do?msg_seq=15954&amp;bcd=notice",
       "onclick": "",
       "board": "https://www.namdong.go.kr/main/news/notice.jsp"
@@ -3090,7 +3083,7 @@
     },
     {
       "region": "서울특별시 금천구",
-      "title": "핫이슈 금천정원지원센터에서 뭐 하길래...사람들이 이렇게 감동하나요? 울컥주의 😭 2025-12-19 조회 : 2005",
+      "title": "핫이슈 금천정원지원센터에서 뭐 하길래...사람들이 이렇게 감동하나요? 울컥주의 😭 2025-12-19 조회 : 2052",
       "url": "https://www.geumcheon.go.kr/gcb/selectBbsNttView.do?key=1848&amp;bbsNo=150151&amp;nttNo=263447&amp;searchCtgry=&amp;searchCnd=all&amp;searchKrwd=&amp;pageIndex=1&amp;integrDeptCode=",
       "onclick": "",
       "board": "https://www.geumcheon.go.kr/gcb/selectBbsNttList.do?bbsNo=150151&key=1848"
@@ -4507,76 +4500,6 @@
       "title": "민원신청",
       "url": "https://www.uiwang.go.kr/UWKORCOM0902",
       "onclick": "",
-      "board": "https://www.uiwang.go.kr/UWKORINFO0101"
-    },
-    {
-      "region": "경기도 의왕시",
-      "title": "지방보조금 부정수급 신고",
-      "url": "https://www.clean.go.kr/menu.es?mid=a10602030000",
-      "onclick": "",
-      "board": "https://www.uiwang.go.kr/UWKORINFO0101"
-    },
-    {
-      "region": "경기도 의왕시",
-      "title": "고충민원 신청 안내",
-      "url": "https://www.uiwang.go.kr/UWKORCOM1302",
-      "onclick": "",
-      "board": "https://www.uiwang.go.kr/UWKORINFO0101"
-    },
-    {
-      "region": "경기도 의왕시",
-      "title": "여권신청",
-      "url": "https://www.uiwang.go.kr/UWKORMIN0630",
-      "onclick": "",
-      "board": "https://www.uiwang.go.kr/UWKORINFO0101"
-    },
-    {
-      "region": "경기도 의왕시",
-      "title": "대금지급",
-      "url": "https://www.uiwang.go.kr/UWKOROPEN0319",
-      "onclick": "",
-      "board": "https://www.uiwang.go.kr/UWKORINFO0101"
-    },
-    {
-      "region": "경기도 의왕시",
-      "title": "고유가 피해지원금",
-      "url": "https://www.uiwang.go.kr/UWKORWEL2007",
-      "onclick": "",
-      "board": "https://www.uiwang.go.kr/UWKORINFO0101"
-    },
-    {
-      "region": "경기도 의왕시",
-      "title": "기업지원",
-      "url": "https://www.uiwang.go.kr/UWKORECO0401",
-      "onclick": "",
-      "board": "https://www.uiwang.go.kr/UWKORINFO0101"
-    },
-    {
-      "region": "경기도 의왕시",
-      "title": "2026년 4분기(10~12월) 부곡동청소년문화의집 모아아카데미 수강생 모집첨부파일",
-      "url": "https://www.uiwang.go.kr/UWKORINFO0101/7004908/?curPage=1",
-      "onclick": "",
-      "board": "https://www.uiwang.go.kr/UWKORINFO0101"
-    },
-    {
-      "region": "경기도 의왕시",
-      "title": "♣ 의왕시일자리센터 「실버인지놀이 지도사 1급 자격증 과정(2기)」 교육생 모집 안내 ♣첨부파일",
-      "url": "https://www.uiwang.go.kr/UWKORINFO0101/7004902/?curPage=1",
-      "onclick": "",
-      "board": "https://www.uiwang.go.kr/UWKORINFO0101"
-    },
-    {
-      "region": "경기도 의왕시",
-      "title": "의왕시진로지원센터",
-      "url": "https://www.uyf.or.kr/uwdream/236",
-      "onclick": "",
-      "board": "https://www.uiwang.go.kr/UWKORINFO0101"
-    },
-    {
-      "region": "경기도 의왕시",
-      "title": "민원신청",
-      "url": "https://www.uiwang.go.kr/UWKORCOM0902",
-      "onclick": "",
       "board": "https://www.uiwang.go.kr/UWKORINFO1601"
     },
     {
@@ -5008,6 +4931,13 @@
     },
     {
       "region": "경기도 용인시",
+      "title": "경기도기숙사 수시 입사생 모집. 공실 발생 시 순차 충원",
+      "url": null,
+      "onclick": "goView(",
+      "board": "https://www.yongin.go.kr/user/web/newsApi/BD_selectNewsApiList.do"
+    },
+    {
+      "region": "경기도 용인시",
       "title": "지방보조금",
       "url": "https://www.yongin.go.kr/user/bbs/BD_selectBbsList.do?q_bbsCode=1187",
       "onclick": "",
@@ -5018,6 +4948,20 @@
       "title": "위원회 위원 모집 공고",
       "url": "https://www.yongin.go.kr/user/bbs/BD_selectBbsList.do?q_bbsCode=1170",
       "onclick": "",
+      "board": "https://www.yongin.go.kr/user/bbs/BD_selectBbsList.do?q_bbsCode=1020"
+    },
+    {
+      "region": "경기도 용인시",
+      "title": "용인특례시, ‘KPS에듀’ 기증 아동도서 1010권 지역 도서관에 지원",
+      "url": "https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1020&amp;q_bbscttSn=20260907081003795",
+      "onclick": "opView(",
+      "board": "https://www.yongin.go.kr/user/bbs/BD_selectBbsList.do?q_bbsCode=1020"
+    },
+    {
+      "region": "경기도 용인시",
+      "title": "용인특례시, ‘백옥쌀 베이킹 마스터즈 챔피언십’ 참가자 모집",
+      "url": "https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1020&amp;q_bbscttSn=20260907080931726",
+      "onclick": "opView(",
       "board": "https://www.yongin.go.kr/user/bbs/BD_selectBbsList.do?q_bbsCode=1020"
     },
     {
@@ -6947,7 +6891,14 @@
     },
     {
       "region": "경기도 오산시",
-      "title": "수원 「화서역 호수공원 아너스빌」장애인 특별공급 안내(모집공고 변경)",
+      "title": "2026년 열린어린이집 선정 모집 공고",
+      "url": "https://www.osan.go.kr/portal/saeol/gosi/list.do?mId=0302010000#",
+      "onclick": "req.post(this); return false;",
+      "board": "https://www.osan.go.kr/portal/saeol/gosi/list.do?mId=0302010000"
+    },
+    {
+      "region": "경기도 오산시",
+      "title": "2026년 오산시 착한가격업소 수시 모집 공고",
       "url": "https://www.osan.go.kr/portal/saeol/gosi/list.do?mId=0302010000#",
       "onclick": "req.post(this); return false;",
       "board": "https://www.osan.go.kr/portal/saeol/gosi/list.do?mId=0302010000"
