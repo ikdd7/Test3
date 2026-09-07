@@ -159167,5 +159167,25 @@
     "amount": "",
     "show": true,
     "special": true
+  },
+  "bj-WLF00006776": {
+    "category": "주거",
+    "tags": [],
+    "support_type": "서비스",
+    "summary": "관악구 청년 주거환경 개선 지원",
+    "target": "관악구 거주 청년",
+    "amount": "",
+    "show": true,
+    "special": false
+  },
+  "bj-WLF00006775": {
+    "category": "주거",
+    "tags": [],
+    "support_type": "현금",
+    "summary": "관악구 청년 월세 지원",
+    "target": "관악구 거주 청년",
+    "amount": "",
+    "show": true,
+    "special": false
   }
 }
