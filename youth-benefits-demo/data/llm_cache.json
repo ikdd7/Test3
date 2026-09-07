@@ -159187,5 +159187,63 @@
     "amount": "",
     "show": true,
     "special": false
+  },
+  "g24-435100000006": {
+    "category": "건강",
+    "tags": [],
+    "support_type": "현물",
+    "summary": "고위험군 성인 및 지역주민 예방접종 지원",
+    "target": "고위험군 성인 및 지역주민",
+    "amount": "",
+    "show": true,
+    "special": false
+  },
+  "g24-320000000310": {
+    "category": "건강",
+    "tags": [
+      "장애인"
+    ],
+    "support_type": "현물",
+    "summary": "장애인 인플루엔자 백신 및 접종 지원",
+    "target": "14~64세 심한 장애인",
+    "amount": "",
+    "show": true,
+    "special": true
+  },
+  "g24-497000000643": {
+    "category": "금융",
+    "tags": [
+      "자영업·창업"
+    ],
+    "support_type": "서비스",
+    "summary": "소상공인 신용보증수수료 지원",
+    "target": "연매출 10억 이하 소상공인",
+    "amount": "",
+    "show": true,
+    "special": false
+  },
+  "g24-582000000001": {
+    "category": "금융",
+    "tags": [
+      "자영업·창업"
+    ],
+    "support_type": "대출",
+    "summary": "소상공인 3무 특례보증 대출 지원",
+    "target": "북구 소상공인",
+    "amount": "최대 2천만원",
+    "show": true,
+    "special": false
+  },
+  "g24-582000000002": {
+    "category": "금융",
+    "tags": [
+      "자영업·창업"
+    ],
+    "support_type": "서비스",
+    "summary": "저신용 소상공인 포용금융 이차보전 지원",
+    "target": "북구 저신용 소상공인",
+    "amount": "이자 1년간 5% 지원",
+    "show": true,
+    "special": false
   }
 }
