@@ -159328,5 +159328,15 @@
     "amount": "",
     "show": true,
     "special": false
+  },
+  "bd-ed9687ebb99b": {
+    "category": "기타",
+    "tags": [],
+    "support_type": "서비스",
+    "summary": "경기도여성가족재단 에너지 젠더포럼 개최",
+    "target": "",
+    "amount": "",
+    "show": false,
+    "special": false
   }
 }
