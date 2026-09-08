@@ -159245,5 +159245,88 @@
     "amount": "이자 1년간 5% 지원",
     "show": true,
     "special": false
+  },
+  "g24-452000000353": {
+    "category": "일자리",
+    "tags": [
+      "재직중"
+    ],
+    "support_type": "현금",
+    "summary": "육아휴직 대체근로자 인센티브 지원",
+    "target": "육아휴직 대체근로자",
+    "amount": "",
+    "show": true,
+    "special": false
+  },
+  "g24-O00022600038": {
+    "category": "복지",
+    "tags": [
+      "제대군인"
+    ],
+    "support_type": "서비스",
+    "summary": "참전유공자 거주자우선주차 요금 감면",
+    "target": "참전유공자",
+    "amount": "",
+    "show": true,
+    "special": true
+  },
+  "bj-WLF00006778": {
+    "category": "건강",
+    "tags": [
+      "저소득"
+    ],
+    "support_type": "서비스",
+    "summary": "저소득층 치과진료비 지원",
+    "target": "저소득층",
+    "amount": "",
+    "show": true,
+    "special": false
+  },
+  "bj-WLF00006777": {
+    "category": "교육",
+    "tags": [
+      "구직중"
+    ],
+    "support_type": "현금",
+    "summary": "청년 구직자 자격증 응시료 지원",
+    "target": "청년 구직자",
+    "amount": "",
+    "show": true,
+    "special": false
+  },
+  "g24-O00019100006": {
+    "category": "문화",
+    "tags": [
+      "제대군인"
+    ],
+    "support_type": "서비스",
+    "summary": "체육시설 이용요금 감면",
+    "target": "국가유공자 및 가족",
+    "amount": "",
+    "show": true,
+    "special": true
+  },
+  "g24-O00091100008": {
+    "category": "문화",
+    "tags": [
+      "장애인",
+      "제대군인"
+    ],
+    "support_type": "서비스",
+    "summary": "장애인·국가유공자 공연티켓 50% 할인",
+    "target": "장애인, 국가유공자",
+    "amount": "50%",
+    "show": true,
+    "special": true
+  },
+  "g24-B19001600011": {
+    "category": "기타",
+    "tags": [],
+    "support_type": "서비스",
+    "summary": "혁신아이콘 지원 프로그램",
+    "target": "업력 2~12년 기업",
+    "amount": "",
+    "show": true,
+    "special": false
   }
 }
