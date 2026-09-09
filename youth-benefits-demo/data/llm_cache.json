@@ -159372,5 +159372,15 @@
     "amount": "배점 가산",
     "show": true,
     "special": true
+  },
+  "bj-WLF00006605": {
+    "category": "복지",
+    "tags": [],
+    "support_type": "현금",
+    "summary": "보령시 청년 결혼 시 최대 1000만원 지원",
+    "target": "보령시 거주 청년",
+    "amount": "최대 1000만원",
+    "show": true,
+    "special": false
   }
 }
