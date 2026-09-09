@@ -159338,5 +159338,39 @@
     "amount": "",
     "show": false,
     "special": false
+  },
+  "g24-O00022600001": {
+    "category": "문화",
+    "tags": [
+      "장애인"
+    ],
+    "support_type": "서비스",
+    "summary": "장애인 공영주차장 이용요금 감면",
+    "target": "장애인사용자동차표지 부착 차량의 장애인 이용자",
+    "amount": "이용요금 감면",
+    "show": true,
+    "special": true
+  },
+  "g24-O00022600002": {
+    "category": "문화",
+    "tags": [],
+    "support_type": "서비스",
+    "summary": "경로우대자 문화체육시설 이용요금 감면",
+    "target": "만 65세 이상 문화·체육시설 이용자",
+    "amount": "이용요금 감면",
+    "show": true,
+    "special": true
+  },
+  "g24-O00022600013": {
+    "category": "주거",
+    "tags": [
+      "장애인"
+    ],
+    "support_type": "서비스",
+    "summary": "장애인 거주자우선주차 배점 가산",
+    "target": "장애인 본인 또는 동거가족 차량 이용자",
+    "amount": "배점 가산",
+    "show": true,
+    "special": true
   }
 }
