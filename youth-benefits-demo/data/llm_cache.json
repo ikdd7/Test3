@@ -159404,5 +159404,29 @@
     "amount": "",
     "show": true,
     "special": false
+  },
+  "g24-453000000445": {
+    "category": "일자리",
+    "tags": [
+      "장애인"
+    ],
+    "support_type": "서비스",
+    "summary": "장애인에게 일자리 제공",
+    "target": "만 18세 이상 등록 장애인",
+    "amount": "",
+    "show": true,
+    "special": true
+  },
+  "g24-O00093700014": {
+    "category": "교육",
+    "tags": [
+      "장애인"
+    ],
+    "support_type": "바우처",
+    "summary": "장애인에게 평생교육이용권 지원",
+    "target": "등록 장애인, 19세 이상",
+    "amount": "최대 35만원",
+    "show": true,
+    "special": true
   }
 }
